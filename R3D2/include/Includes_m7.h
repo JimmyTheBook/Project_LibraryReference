@@ -11,7 +11,7 @@
 
 #include    "../lib/Common_Arduino_Functions/LED_Functions/COMMON_LED_Functions_Blinker.h"
 
-#include    "../lib/Comms/src/comms.h"
+#include    <comms.h>
 
 #include    "../lib/Nextion_Arduino/Nextion_Hardware.h"
 
